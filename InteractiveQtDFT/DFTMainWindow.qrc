@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>marlene.png</file>
+        <file>marlene_rauschen.png</file>
+    </qresource>
+</RCC>
